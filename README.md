@@ -28,10 +28,6 @@ A classic Snake Game built with Java Swing, featuring smooth gameplay, scoring, 
 1. Clone the repository:
 
 Compile the Java files:
-
-bash
-Copy
-Edit
 javac SnakeGame.java GameFrame.java GamePanel.java
 Run the game:
 java SnakeGame
@@ -46,9 +42,6 @@ java SnakeGame
 ⬇️ Down Arrow – Move Down
 
 R – Restart after Game Over
-
-📸 Screenshot
-
 
 📚 Learning Goals
 Practice Java 2D graphics and Swing components
